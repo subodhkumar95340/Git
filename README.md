@@ -20,5 +20,4 @@ node app.js
 ```
 To quit the server
 
-
 ### Ctrl + C
